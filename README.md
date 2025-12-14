@@ -93,8 +93,8 @@ It’s worth considering how the metrics you select align with your tasks.
 
 \begin{tabular}{ccc}
 Method & Accuracy & F1 \\
-Baseline & 0.65 & 0.58 \\
-Pipeline & 0.92 & 0.91
+Baseline & 0.67 & 0.60 \\
+Pipeline & 0.89 & 0.87
 \end{tabular}
 
 ## 5. Reflection
